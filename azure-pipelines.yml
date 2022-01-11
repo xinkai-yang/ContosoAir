@@ -52,3 +52,4 @@ stages:
         includeRootFolder: false
     - task: PublishBuildArtifacts@1
       displayName: 'Publish Artifact: drop'
+
